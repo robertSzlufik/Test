@@ -8,6 +8,6 @@ package com.mycompany.projectx;
  *
  * @author rober
  */
-public class SecondClass {
+public class V2 {
     
 }
